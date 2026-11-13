@@ -1,2 +1,12 @@
-Bonjour à vous
-Je m'appelle Sarah
+- Créer un fichier
+- Écrire du texte dedans
+- L'ajouter au stage et le commiter
+
+- Modifier le texte du fichier (ajouts de lignes, suppressions)
+- Ajouter dans le stage
+- Trouver un moyen de revenir à l'état du commit précédent (tout annuler)
+- Refaire des modifications dedans
+- Créer un autre fichier avec du texte
+- Les commiter tous les deux
+
+
