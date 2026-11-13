@@ -9,4 +9,5 @@
 - Créer un autre fichier avec du texte
 - Les commiter tous les deux
 
-
+- Regarder les logs
+	- En détail ou pas
